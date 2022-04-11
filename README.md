@@ -1,4 +1,4 @@
 # Timer-Compose
-### A Timer/Countdown-Timer in Jetpack Compose
+### A Timer/Countdown-Timer in Jetpack Compose with flipper clock
 
 
